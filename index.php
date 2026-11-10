@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="dashboard-container" style="text-align: center; margin-top: 100px;">
-        <h1>Welcome to the Hospital Appointment System</h1>
+        <h1>Welcome to our the Hospital Appointment System</h1>
         <p>Book your medical appointments easily, from anywhere.</p>
         
         <div class="buttons" style="margin-top: 40px;">
